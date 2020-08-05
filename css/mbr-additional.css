@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+
+#menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-a .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-a .mbr-brand__name a {
+  font-size: 36px;
+}
+#header4-1 .btn {
+  font-size: 16px;
+}
+#header4-1 H1 {
+  color: #ffffff;
+  font-size: 48px;
+}
+#header4-1 SPAN {
+  color: #ffffff;
+  font-size: 60px;
+}
+#header4-1 P {
+  font-size: 22px;
+}
+#header3-k H3 {
+  text-align: center;
+  color: #27aae0;
+}
+#header3-k P {
+  text-align: center;
+  font-size: 18px;
+}
+#content5-i .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #27aae0;
+}
+#content5-i .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-i .mbr-article {
+  color: #fff;
+}
+#content5-i .mbr-article P {
+  color: #ffffff;
+  font-family: 'Noto Sans', sans-serif;
+}
+#features1-3 .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+}
+#features1-3 P {
+  text-align: center;
+  font-size: 14px;
+}
+#features1-3 .mbr-section-title .mbr-header__text {
+  color: #27aae0;
+  font-size: 32px;
+}
+#form1-7 .mbr-header__text {
+  color: #27aae0;
+  font-size: 32px;
+}
+#contacts1-4 P {
+  color: #ffffff;
+}
+#contacts1-4 STRONG {
+  font-size: 16px;
+}
+#footer1-5 P {
+  color: #ffffff;
+  font-size: 14px;
+  text-align: right;
+}
